@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id costumerName
+id earliestCheckButton
+id item_name
+id latestCheckButton
+id orderJobsButton
+id orderNamesButton
+id progressBar
+id recycler_view
+id viewContainer
+layout activity_main
+layout item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string earliestCheckButton_text
+string latestCheckButton_text
+string orderJobsButton_text
+string orderNamesButton_text
+style Theme.BadgerMapsTask
+xml backup_rules
+xml data_extraction_rules
