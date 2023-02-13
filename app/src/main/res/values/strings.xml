@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">badgerMapsTask</string>
+    <string name="latestCheckButton_text">Latest Check</string>
+    <string name="earliestCheckButton_text">Earliest Check</string>
+    <string name="orderNamesButton_text">Order Names</string>
+    <string name="orderJobsButton_text">Order Jobs</string>
+</resources>
